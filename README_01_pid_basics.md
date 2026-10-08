@@ -65,13 +65,6 @@ core challenges in real robotics engineering.
 
 ## 🛠️ Tech Stack
 
-- Python 3.11.9
+- Python 3.14.7
 - NumPy
 - Matplotlib
-
-## ▶️ How to Run
-
-```bash
-pip install numpy matplotlib
-```
-Open `notebooks/01_pid_basics.ipynb` and run all cells in order.
